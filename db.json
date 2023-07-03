@@ -1,8 +1,8 @@
 {
   "users": [
-  {"id": 1, "name": "Marines Mendez", "username": "MGMarines", "email": "marinescodigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
-  {"id": 2, "name": "Jose", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
-  {"id": 3, "name": "Carmen", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+  {"id": 1, "name": "Adriel Moreno", "username": "AMoreno", "email": "AMoreno@hotmail.com", "image": "https://publicdomainvectors.org/es/vectoriales-gratuitas/Avatar-hombre-ilustraci%C3%B3n/59912.html"},
+  {"id": 2, "name": "Leonardo Moreno", "username": "LMoreno", "email": "AMoreno@hotmail.com", "image": "https://publicdomainvectors.org/es/vectoriales-gratuitas/Avatar-hombre-ilustraci%C3%B3n/59912.html"},
+  {"id": 3, "name": "Moreno Rosso", "username": "MRosso", "email": "AMoreno@hotmail.com", "image": "https://publicdomainvectors.org/es/vectoriales-gratuitas/Avatar-hombre-ilustraci%C3%B3n/59912.html"}
   ],
     "posts": [
       { "id": 1, "title": "¿Porque adoptar animales?", "body": "pienso que es importante adoptar porque.....", "userId": 1 },
